@@ -16,7 +16,7 @@ Welcome to Image Gallery Project , developed using HTML and CSS. The project sho
 
 ## Live Demo
 
-Check out the live version of the Image Gallery project [here](#).
+Check out the live version of the Image Gallery project [https://nivetha-1718.github.io/Image-Gallery-Project/]
 
 ## CSS Style
 
