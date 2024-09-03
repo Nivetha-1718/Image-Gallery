@@ -25,6 +25,5 @@ Check out the live version of the Image Gallery project [here](#).
 - **Responsive Design:** The gallery is fully responsive, ensuring it looks great on devices of all sizes, from desktops to mobile phones.
 ## Contributing
 
-
 Contributions are welcome! If you have suggestions for improvements or want to add features, feel free to open an issue or submit a pull request.
-
+Thank you for visiting my portfolio website!
